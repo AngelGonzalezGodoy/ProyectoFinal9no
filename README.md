@@ -3,5 +3,5 @@
 Integrantes:
 - Alejandro Cerda
 - Veronica Ramirez Villaseñor
-- Rafael
+- Rafael Muñiz Vega
 - Angel Gonzalez Godoy
